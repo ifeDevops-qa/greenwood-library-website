@@ -196,8 +196,8 @@ git push origin add-book-reviews  # Push the new branch to GitHub
 #### 6. Push the `add-book-reviews` branch to GitHub:
 
 By running the above `git push` command, Il pushed the `add-book-reviews` branch to GitHub, where I can create a Pull Request (PR) if required.
-![terminal output]()
-![Add book reviews PR]()
+![terminal output](./screenshots/book-review.png)
+![Add book reviews PR](./screenshots/book-reviews-pr.png)
 
 
 #### 7. Create a new branch named `update-events`:
@@ -250,6 +250,7 @@ git push origin update-events  # Push the branch to GitHub
 #### 6. Push the `update-events` branch to GitHub:
 
 By running the above `git push` command, I pushed the `update-events` branch to GitHub, where I can create a Pull Request (PR) if required.
-![terminal output]()
-![Updated the Events section PR]()
+![terminal output](./screenshots/update-events.png)
+![Updated the Events section PR](./screenshots/update-events-pr.png)
+
 
